@@ -1,0 +1,7 @@
+Python 2.6ish? I think all the lab machines are on 2.7+
+
+I don't think we ever talked about the sql diagram tool, did we?
+And we didn't really reference the sqlite tutorial about table generation. Maybe this section could/should be fleshed out a little bit?
+
+Chapter 3:
+Flaskr exercise?
