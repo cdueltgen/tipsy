@@ -5,3 +5,6 @@ And we didn't really reference the sqlite tutorial about table generation. Maybe
 
 Chapter 3:
 Flaskr exercise?
+
+Did it explain in the Flaskr exercise about the trailing comma in a query with only one variable? Because maybe we should explain that part?
+
